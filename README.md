@@ -18,4 +18,4 @@ Proyecto de análisis de datos end-to-end para Emausoft, integrando ventas, clie
 3. Ejecuta el pipeline: `python scripts/pipeline.py`
 
 ## Uso
-Sigue el flujo definido en `contexto_pd/flujoPD.md`.
+Sigue el flujo definido en `contexto_pd/flujoPD.md`.# PD_M5
