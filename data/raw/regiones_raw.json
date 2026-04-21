@@ -1,0 +1,502 @@
+[
+  {
+    "code": "DZ",
+    "name.common": "Algeria",
+    "region": "Africa"
+  },
+  {
+    "code": "AO",
+    "name.common": "Angola",
+    "region": "Africa"
+  },
+  {
+    "code": "BJ",
+    "name.common": "Benin",
+    "region": "Africa"
+  },
+  {
+    "code": "BW",
+    "name.common": "Botswana",
+    "region": "Africa"
+  },
+  {
+    "code": "BF",
+    "name.common": "Burkina Faso",
+    "region": "Africa"
+  },
+  {
+    "code": "BI",
+    "name.common": "Burundi",
+    "region": "Africa"
+  },
+  {
+    "code": "CV",
+    "name.common": "Cabo Verde",
+    "region": "Africa"
+  },
+  {
+    "code": "CM",
+    "name.common": "Cameroon",
+    "region": "Africa"
+  },
+  {
+    "code": "CF",
+    "name.common": "Central African Republic (the)",
+    "region": "Africa"
+  },
+  {
+    "code": "TD",
+    "name.common": "Chad",
+    "region": "Africa"
+  },
+  {
+    "code": "KM",
+    "name.common": "Comoros (the)",
+    "region": "Africa"
+  },
+  {
+    "code": "CD",
+    "name.common": "Congo (the Democratic Republic of the)",
+    "region": "Africa"
+  },
+  {
+    "code": "CG",
+    "name.common": "Congo (the)",
+    "region": "Africa"
+  },
+  {
+    "code": "CI",
+    "name.common": "Côte d'Ivoire",
+    "region": "Africa"
+  },
+  {
+    "code": "DJ",
+    "name.common": "Djibouti",
+    "region": "Africa"
+  },
+  {
+    "code": "EG",
+    "name.common": "Egypt",
+    "region": "Africa"
+  },
+  {
+    "code": "GQ",
+    "name.common": "Equatorial Guinea",
+    "region": "Africa"
+  },
+  {
+    "code": "ER",
+    "name.common": "Eritrea",
+    "region": "Africa"
+  },
+  {
+    "code": "SZ",
+    "name.common": "Eswatini",
+    "region": "Africa"
+  },
+  {
+    "code": "ET",
+    "name.common": "Ethiopia",
+    "region": "Africa"
+  },
+  {
+    "code": "GA",
+    "name.common": "Gabon",
+    "region": "Africa"
+  },
+  {
+    "code": "GM",
+    "name.common": "Gambia (the)",
+    "region": "Africa"
+  },
+  {
+    "code": "GH",
+    "name.common": "Ghana",
+    "region": "Africa"
+  },
+  {
+    "code": "GN",
+    "name.common": "Guinea",
+    "region": "Africa"
+  },
+  {
+    "code": "GW",
+    "name.common": "Guinea-Bissau",
+    "region": "Africa"
+  },
+  {
+    "code": "KE",
+    "name.common": "Kenya",
+    "region": "Africa"
+  },
+  {
+    "code": "LS",
+    "name.common": "Lesotho",
+    "region": "Africa"
+  },
+  {
+    "code": "LR",
+    "name.common": "Liberia",
+    "region": "Africa"
+  },
+  {
+    "code": "LY",
+    "name.common": "Libya",
+    "region": "Africa"
+  },
+  {
+    "code": "MG",
+    "name.common": "Madagascar",
+    "region": "Africa"
+  },
+  {
+    "code": "MW",
+    "name.common": "Malawi",
+    "region": "Africa"
+  },
+  {
+    "code": "ML",
+    "name.common": "Mali",
+    "region": "Africa"
+  },
+  {
+    "code": "MR",
+    "name.common": "Mauritania",
+    "region": "Africa"
+  },
+  {
+    "code": "MU",
+    "name.common": "Mauritius",
+    "region": "Africa"
+  },
+  {
+    "code": "YT",
+    "name.common": "Mayotte",
+    "region": "Africa"
+  },
+  {
+    "code": "MA",
+    "name.common": "Morocco",
+    "region": "Africa"
+  },
+  {
+    "code": "MZ",
+    "name.common": "Mozambique",
+    "region": "Africa"
+  },
+  {
+    "code": "NA",
+    "name.common": "Namibia",
+    "region": "Africa"
+  },
+  {
+    "code": "NE",
+    "name.common": "Niger (the)",
+    "region": "Africa"
+  },
+  {
+    "code": "NG",
+    "name.common": "Nigeria",
+    "region": "Africa"
+  },
+  {
+    "code": "RE",
+    "name.common": "Réunion",
+    "region": "Africa"
+  },
+  {
+    "code": "RW",
+    "name.common": "Rwanda",
+    "region": "Africa"
+  },
+  {
+    "code": "SH",
+    "name.common": "Saint Helena, Ascension and Tristan da Cunha",
+    "region": "Africa"
+  },
+  {
+    "code": "ST",
+    "name.common": "Sao Tome and Principe",
+    "region": "Africa"
+  },
+  {
+    "code": "SN",
+    "name.common": "Senegal",
+    "region": "Africa"
+  },
+  {
+    "code": "SC",
+    "name.common": "Seychelles",
+    "region": "Africa"
+  },
+  {
+    "code": "SL",
+    "name.common": "Sierra Leone",
+    "region": "Africa"
+  },
+  {
+    "code": "SO",
+    "name.common": "Somalia",
+    "region": "Africa"
+  },
+  {
+    "code": "ZA",
+    "name.common": "South Africa",
+    "region": "Africa"
+  },
+  {
+    "code": "SS",
+    "name.common": "South Sudan",
+    "region": "Africa"
+  },
+  {
+    "code": "SD",
+    "name.common": "Sudan (the)",
+    "region": "Africa"
+  },
+  {
+    "code": "TZ",
+    "name.common": "Tanzania, the United Republic of",
+    "region": "Africa"
+  },
+  {
+    "code": "TG",
+    "name.common": "Togo",
+    "region": "Africa"
+  },
+  {
+    "code": "TN",
+    "name.common": "Tunisia",
+    "region": "Africa"
+  },
+  {
+    "code": "UG",
+    "name.common": "Uganda",
+    "region": "Africa"
+  },
+  {
+    "code": "EH",
+    "name.common": "Western Sahara*",
+    "region": "Africa"
+  },
+  {
+    "code": "ZM",
+    "name.common": "Zambia",
+    "region": "Africa"
+  },
+  {
+    "code": "ZW",
+    "name.common": "Zimbabwe",
+    "region": "Africa"
+  },
+  {
+    "code": "AQ",
+    "name.common": "Antarctica",
+    "region": "Antarctic"
+  },
+  {
+    "code": "BV",
+    "name.common": "Bouvet Island",
+    "region": "Antarctic"
+  },
+  {
+    "code": "TF",
+    "name.common": "French Southern Territories (the)",
+    "region": "Antarctic"
+  },
+  {
+    "code": "HM",
+    "name.common": "Heard Island and McDonald Islands",
+    "region": "Antarctic"
+  },
+  {
+    "code": "GS",
+    "name.common": "South Georgia and the South Sandwich Islands",
+    "region": "Antarctic"
+  },
+  {
+    "code": "AF",
+    "name.common": "Afghanistan",
+    "region": "Asia"
+  },
+  {
+    "code": "AM",
+    "name.common": "Armenia",
+    "region": "Asia"
+  },
+  {
+    "code": "AZ",
+    "name.common": "Azerbaijan",
+    "region": "Asia"
+  },
+  {
+    "code": "BD",
+    "name.common": "Bangladesh",
+    "region": "Asia"
+  },
+  {
+    "code": "BT",
+    "name.common": "Bhutan",
+    "region": "Asia"
+  },
+  {
+    "code": "IO",
+    "name.common": "British Indian Ocean Territory (the)",
+    "region": "Asia"
+  },
+  {
+    "code": "BN",
+    "name.common": "Brunei Darussalam",
+    "region": "Asia"
+  },
+  {
+    "code": "KH",
+    "name.common": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "code": "CN",
+    "name.common": "China",
+    "region": "Asia"
+  },
+  {
+    "code": "GE",
+    "name.common": "Georgia",
+    "region": "Asia"
+  },
+  {
+    "code": "HK",
+    "name.common": "Hong Kong",
+    "region": "Asia"
+  },
+  {
+    "code": "IN",
+    "name.common": "India",
+    "region": "Asia"
+  },
+  {
+    "code": "ID",
+    "name.common": "Indonesia",
+    "region": "Asia"
+  },
+  {
+    "code": "JP",
+    "name.common": "Japan",
+    "region": "Asia"
+  },
+  {
+    "code": "KZ",
+    "name.common": "Kazakhstan",
+    "region": "Asia"
+  },
+  {
+    "code": "KP",
+    "name.common": "Korea (the Democratic People's Republic of)",
+    "region": "Asia"
+  },
+  {
+    "code": "KR",
+    "name.common": "Korea (the Republic of)",
+    "region": "Asia"
+  },
+  {
+    "code": "KG",
+    "name.common": "Kyrgyzstan",
+    "region": "Asia"
+  },
+  {
+    "code": "LA",
+    "name.common": "Lao People's Democratic Republic (the)",
+    "region": "Asia"
+  },
+  {
+    "code": "MO",
+    "name.common": "Macao",
+    "region": "Asia"
+  },
+  {
+    "code": "MY",
+    "name.common": "Malaysia",
+    "region": "Asia"
+  },
+  {
+    "code": "MV",
+    "name.common": "Maldives",
+    "region": "Asia"
+  },
+  {
+    "code": "MN",
+    "name.common": "Mongolia",
+    "region": "Asia"
+  },
+  {
+    "code": "MM",
+    "name.common": "Myanmar",
+    "region": "Asia"
+  },
+  {
+    "code": "NP",
+    "name.common": "Nepal",
+    "region": "Asia"
+  },
+  {
+    "code": "PK",
+    "name.common": "Pakistan",
+    "region": "Asia"
+  },
+  {
+    "code": "PH",
+    "name.common": "Philippines (the)",
+    "region": "Asia"
+  },
+  {
+    "code": "SG",
+    "name.common": "Singapore",
+    "region": "Asia"
+  },
+  {
+    "code": "LK",
+    "name.common": "Sri Lanka",
+    "region": "Asia"
+  },
+  {
+    "code": "TW",
+    "name.common": "Taiwan (Province of China)",
+    "region": "Asia"
+  },
+  {
+    "code": "TJ",
+    "name.common": "Tajikistan",
+    "region": "Asia"
+  },
+  {
+    "code": "TH",
+    "name.common": "Thailand",
+    "region": "Asia"
+  },
+  {
+    "code": "TL",
+    "name.common": "Timor-Leste",
+    "region": "Asia"
+  },
+  {
+    "code": "TM",
+    "name.common": "Turkmenistan",
+    "region": "Asia"
+  },
+  {
+    "code": "UZ",
+    "name.common": "Uzbekistan",
+    "region": "Asia"
+  },
+  {
+    "code": "VN",
+    "name.common": "Viet Nam",
+    "region": "Asia"
+  },
+  {
+    "code": "BZ",
+    "name.common": "Belize",
+    "region": "Central America"
+  }
+]
